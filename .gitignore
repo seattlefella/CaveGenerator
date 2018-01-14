@@ -1,0 +1,59 @@
+# =============== #
+# Unity folders #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+
+# ===================================== #
+# Unity 3rd Party Asset Files#
+# ===================================== #
+
+Assets/3rdParty/
+3rdParty/
+Assets/Standard Assets/
+Assets/dPartyDatabase Control Free/
+
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+/.vs/
+.consulo/
+*.tmp
+*.userprefs
+*.pdb
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ===================================== #
+# Unity generated Meta & crash report Files#
+# ===================================== #
+*.pidb.meta
+sysinfo.txt
+
+# ===================================== #
+# Unity generated Build Files#
+# ===================================== #
+*.apk
+*.unitypackage
+Builds/
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
